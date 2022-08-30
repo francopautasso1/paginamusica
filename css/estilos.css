@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.imglogo{
+    width: 100px;
+}
+
+.fondo{
+    background-image: url(../img/fondo.webp);
+
+}
+
+.section{
+    margin: 1px;
+}
+.h1border{
+    border-top: 2px solid black;
+}
