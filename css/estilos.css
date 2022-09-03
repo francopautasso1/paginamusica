@@ -22,5 +22,17 @@
 .h1Tendencias{
     margin-top: 120px;
     margin-bottom: 10px;
+    
  
+}
+
+.cardBorder{
+    border-radius: 50px ;
+    width: 300px;
+    
+}
+
+.carruBorder{
+    border-radius: 150px;
+    
 }
