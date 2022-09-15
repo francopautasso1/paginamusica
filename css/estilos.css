@@ -8,22 +8,35 @@
 }
 
 .fondo{
-    background-image: url(../img/fondo.webp);
+    background-color: #171717;
 
 }
 
 .section{
     margin: 1px;
 }
-.h1border{
-    border-top: 2px solid black;
+.h1Border{
+    margin-top: 40px;
+    color: white;
+}
+
+.hClass{
+    color: white;
+   
 }
 
 .h1Tendencias{
-    margin-top: 120px;
-    margin-bottom: 10px;
+    margin-top: 40px;
+    margin-bottom: 5px;
+    color: white;
+    background-color: #171717;
     
  
+}
+
+.h2Tendencias{
+    color: white;
+    background-color: #171717;
 }
 
 .cardBorder{
@@ -33,6 +46,20 @@
 }
 
 .carruBorder{
-    border-radius: 150px;
+    border-radius: 10px;
     
 }
+
+.cardMargin{
+        margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
