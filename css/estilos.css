@@ -8,36 +8,49 @@
 }
 
 .fondo{
-    background-color: #171717;
+    background-color: #000;
 
+}
+.navbar{
+    margin: -8px;
+   
+    
 }
 
 .section{
-    margin: 1px;
+    margin: 10 px;
 }
 .h1Border{
-    margin-top: 40px;
+    
     color: white;
+    font-size: 400%;
+    
 }
 
 .hClass{
-    color: white;
+    color: rgba(255, 255, 255, 0.418);
+    font-size: 150%;
    
 }
 
-.h1Tendencias{
-    margin-top: 40px;
-    margin-bottom: 5px;
-    color: white;
-    background-color: #171717;
+.carru{
+    width: 35%;
+
+ }
+ 
+ .tendencias{
+    color: black;
+    background-color: white;
     
+    
+ }
+
+.h1Tendencias{
+   font-size: 350%; 
  
 }
 
-.h2Tendencias{
-    color: white;
-    background-color: #171717;
-}
+
 
 .cardBorder{
     border-radius: 50px ;
@@ -54,7 +67,10 @@
         margin: 10px;
 }
 
-
+.formulario{
+    width: 30%;
+    color: aliceblue;
+}
 
 
 
