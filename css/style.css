@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.imglogo {
+  width: 100px;
+}
+
+.fondo {
+  background-color: #000;
+}
+
+.navbar {
+  margin: -8px;
+}
+
+.section {
+  margin: 10 px;
+}
+
+.headerIndex h1 {
+  color: white;
+  font-size: 400%;
+}
+.headerIndex h2, .headerIndex h3 {
+  color: rgba(255, 255, 255, 0.418);
+  font-size: 150%;
+}
+
+.carouselIndex {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.carruBorder {
+  border-radius: 10px;
+}
+
+.tendencias {
+  color: black;
+  background-color: white;
+}
+
+.h1Tendencias {
+  font-size: 350%;
+}
+
+.cardBorder {
+  border-radius: 50px;
+  width: 300px;
+}
+
+.cardMargin {
+  margin: 10px;
+}
+
+.formulario {
+  color: aliceblue;
+}/*# sourceMappingURL=style.css.map */
