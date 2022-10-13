@@ -3,20 +3,20 @@
   padding: 0;
 }
 
-.imglogo {
-  width: 100px;
-}
-
 .fondo {
-  background-color: #000;
-}
-
-.navbar {
-  margin: -8px;
+  background-color: rgb(0, 0, 0);
 }
 
 .section {
   margin: 10 px;
+}
+
+.imglogo {
+  width: 100px;
+}
+
+.navbar {
+  margin: -8px;
 }
 
 .headerIndex h1 {
@@ -57,4 +57,15 @@
 
 .formulario {
   color: aliceblue;
+}
+
+@media (max-width: 480px) {
+  #mujerAuri {
+    display: none;
+  }
+}
+footer {
+  background-color: white;
+  display: flex;
+  justify-content: end;
 }/*# sourceMappingURL=style.css.map */

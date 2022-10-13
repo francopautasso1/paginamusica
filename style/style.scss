@@ -1,10 +1,10 @@
+@import "./utilities/variables";
 
-@import "generales";
+@import "./base/generales";
+@import "./layout/navbar";
+@import "./layout/headerIndex";
+@import "./layout/carousel";
+@import "./layout/tendencias";
+@import "./layout/formulario";
+@import "./layout/footer";
 
-@import "headerIndex";
-
-@import "carousel";
-
-@import "tendencias";
-
-@import "formulario";
