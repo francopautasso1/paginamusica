@@ -1,6 +1,7 @@
 .tendencias{
     color: black;
     background-color: $background-secundario;
+    width: 100%;
     
     
  }
@@ -21,5 +22,10 @@
 
 
 .cardMargin{
-    margin: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.tendenciasMargin{
+    margin: 10%;
 }

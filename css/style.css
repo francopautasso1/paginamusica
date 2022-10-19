@@ -11,6 +11,10 @@
   margin: 10 px;
 }
 
+.font {
+  font-family: sans-serif;
+}
+
 .imglogo {
   width: 100px;
 }
@@ -40,6 +44,7 @@
 .tendencias {
   color: black;
   background-color: white;
+  width: 100%;
 }
 
 .h1Tendencias {
@@ -52,7 +57,12 @@
 }
 
 .cardMargin {
-  margin: 10px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.tendenciasMargin {
+  margin: 10%;
 }
 
 .formulario {
