@@ -2,24 +2,33 @@
     color: black;
     background-color: $background-secundario;
     width: 100%;
-    
+
+    h1{
+        
+        color: rgb(0, 0, 0);
+    }
+    h2{
+        
+        color: rgba(79, 80, 87, 1);
+    }
     
  }
-
-.h1Tendencias{
-   font-size: 350%; 
- 
-}
-
 
 
 .cardBorder{
     border-radius: 50px ;
     width: 100%;
-    
-    
+       
 }
 
+.tendenciasPop{
+    display: flex;
+    
+    
+    .cardTendencias{
+        justify-content:center;
+    }
+}
 
 .cardMargin{
     margin-left: 10%;
@@ -28,4 +37,9 @@
 
 .tendenciasMargin{
     margin: 10%;
+}
+
+.tableTendencias{
+    display: flex;
+    justify-content: center;
 }
