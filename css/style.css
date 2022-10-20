@@ -65,7 +65,12 @@ body {
   margin: 10%;
 }
 
-.tableTendencias {
+.tendeTable {
+  width: 100%;
+  margin: auto;
+}
+
+.cardPop {
   display: flex;
   justify-content: center;
 }
