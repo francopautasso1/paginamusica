@@ -87,5 +87,6 @@ body {
 footer {
   background-color: rgb(33, 37, 41);
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
+  align-items: center;
 }/*# sourceMappingURL=style.css.map */
