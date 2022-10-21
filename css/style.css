@@ -44,6 +44,12 @@ body {
   color: rgb(79, 80, 87);
 }
 
+.tendenciasArg h1 {
+  color: white;
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
 .cardBorder {
   border-radius: 50px;
   width: 100%;
