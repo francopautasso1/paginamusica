@@ -8,9 +8,65 @@
     }
 
     h2, h3 {
-        color: rgba(255, 255, 255, 0.418);
+        color: rgb(193, 87, 70, 0.46);
         
        
+    }
+    display: flex;
+justify-content: center;
+text-align: center;
+    
+}
+.colorH3{
+    color: rgb(193, 87, 70, 0.46);
+}
+
+.inicio{
+    background-color: white;
+    background-image: url(../img/fondoheader.jpg);
+    background-repeat: no-repeat;
+    height: 700px;
+
+   
+    
+
+    @media (max-width: 1024px){
+        background-position: bottom;
+        background-position-x: 100%;
+        .hInicio{
+            padding-top: 2%;               
+            
+        }
+            
+    }
+    @media (min-width: 1024px){
+        background-position: bottom;
+        background-position-x: 100%;
+        .hInicio{
+            padding-top: 2%;               
+            
+        }
+            
+    }
+
+    @media (max-width: 768px){
+        background-position: bottom;
+        background-position-x: 110%;
+        .hInicio{
+            padding-top: 2%;               
+            
+        }
+            
+    }
+
+    @media (max-width: 480px){
+        background-position: bottom;
+        background-position-x: 190%;
+        .hInicio{
+            padding-top: 1%;               
+            
+        }
+            
     }
     
 }
