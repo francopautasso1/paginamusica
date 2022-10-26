@@ -8,7 +8,7 @@
     }
 
     h2, h3 {
-        color: rgb(193, 87, 70, 0.46);
+        color: rgb(78, 78, 78);
         
        
     }
@@ -62,6 +62,15 @@ text-align: center;
     @media (max-width: 480px){
         background-position: bottom;
         background-position-x: 190%;
+        .hInicio{
+            padding-top: 1%;               
+            
+        }
+            
+    }
+    @media (max-width: 450px){
+        background-position: bottom;
+        background-position-x: 0%;
         .hInicio{
             padding-top: 1%;               
             

@@ -25,7 +25,7 @@ body {
   color: white;
 }
 .headerIndex h2, .headerIndex h3 {
-  color: rgba(193, 87, 70, 0.46);
+  color: rgb(78, 78, 78);
 }
 
 .colorH3 {
@@ -69,6 +69,15 @@ body {
   .inicio {
     background-position: bottom;
     background-position-x: 190%;
+  }
+  .inicio .hInicio {
+    padding-top: 1%;
+  }
+}
+@media (max-width: 450px) {
+  .inicio {
+    background-position: bottom;
+    background-position-x: 0%;
   }
   .inicio .hInicio {
     padding-top: 1%;
