@@ -63,7 +63,11 @@ text-align: center;
         background-position: bottom;
         background-position-x: 190%;
         .hInicio{
-            padding-top: 1%;               
+            padding-top: 1%;  
+            
+            padding-left: 5%;
+            padding-right: 5%;       
+                         
             
         }
             
@@ -71,11 +75,14 @@ text-align: center;
     @media (max-width: 450px){
         background-position: bottom;
         background-position-x: 0%;
+        background-position-y: 140%;
         .hInicio{
-            padding-top: 1%;               
+            padding-top: 1%; 
+            padding-left: 5%;
+            padding-right: 5%;       
             
         }
-            
+        
     }
     
 }

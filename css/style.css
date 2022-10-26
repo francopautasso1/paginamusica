@@ -72,15 +72,20 @@ body {
   }
   .inicio .hInicio {
     padding-top: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
   }
 }
 @media (max-width: 450px) {
   .inicio {
     background-position: bottom;
     background-position-x: 0%;
+    background-position-y: 140%;
   }
   .inicio .hInicio {
     padding-top: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
   }
 }
 
